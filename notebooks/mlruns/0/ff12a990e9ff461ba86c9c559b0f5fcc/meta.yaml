@@ -1,0 +1,15 @@
+artifact_uri: file:///home/edyn/Documentos/obsidian-doc/Projects/MachineLearningEngineer/Curso2/Proyecto/Repo/ml2_class4_mlsupervisadoavanzado/mlruns/0/ff12a990e9ff461ba86c9c559b0f5fcc/artifacts
+end_time: 1753289646600
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff12a990e9ff461ba86c9c559b0f5fcc
+run_name: Ensamble de Votos
+run_uuid: ff12a990e9ff461ba86c9c559b0f5fcc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753289630738
+status: 3
+tags: []
+user_id: edyn

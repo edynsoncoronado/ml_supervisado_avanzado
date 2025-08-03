@@ -18,6 +18,7 @@ classifiers = [
 dependencies = [
     "catboost>=1.2.8",
     "dagshub>=0.6.2",
+    "docling>=2.43.0",
     "feast>=0.50.0",
     "jupyterlab>=4.4.4",
     "lightgbm>=4.6.0",
@@ -28,6 +29,7 @@ dependencies = [
     "python-dotenv",
     "ruff",
     "scikit-learn>=1.7.1",
+    "seaborn>=0.13.2",
     "tqdm",
     "typer",
     "xgboost>=3.0.2",
